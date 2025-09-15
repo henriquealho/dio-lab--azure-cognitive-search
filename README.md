@@ -11,6 +11,9 @@ Para este exercício é necessário instalar o seguinte:
 Ao importar os dados é possível escolher que tipo de informação pretendemos extrair.
 <img width="985" height="790" alt="image" src="https://github.com/user-attachments/assets/039d2f9e-5c11-442c-915a-2f24e7bd90cf" />
 
+É necessário criar um indexador
+<img width="913" height="511" alt="image" src="https://github.com/user-attachments/assets/feab0536-18bc-4465-9c19-3f247049206b" />
+
 É preciso criar um container no serviço de Storage para armazenar tanto o resultado da extração como os dados importados.
 <img width="1683" height="873" alt="image" src="https://github.com/user-attachments/assets/4f83a217-92c9-41a8-a37b-fe620e18c507" />
 
